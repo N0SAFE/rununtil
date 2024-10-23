@@ -1,9 +1,9 @@
 {
   "name": "@n0safe/rununtil",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "dist/index.js",
   "bin": {
-    "envcli": "dist/index.js"
+    "rununtil": "dist/index.js"
   },
   "scripts": {
     "tsup": "tsup --onSuccess \"npm run lint\"",
